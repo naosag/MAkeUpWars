@@ -1,0 +1,6 @@
+{
+  "name": "Makeupwars",
+  "tagline": "UASLP",
+  "body": "# Historia\r\n¿Recuerdas tu baile de graduación?, para poder arreglarte para ese gran día, deberás recorrer por diferentes lugares en busca de cosméticos.\r\nNo es tan fácil, puesto que hay más personas esperando por ese maquillaje, que se encargaran de evitar que tú lo tomes. Cuentas con pañuelos desmaquillantes para poder atacar a tus enemigos y así, eliminarlos del escenario.\r\nRecorre las tres habitaciones en busca de todo el maquillaje que puedas atrapar y atravesar el espejo para poder ganar.\r\n\r\n# ¿Como jugar?\r\nLas instrucciones para el juego son sencillas, para poder moverte atreves de la habitación, apóyate de las teclas siguientes:\r\n*  ◁\tTecla W:\r\n*       Te permite mover hacia arriba.\r\n*  ◁\tTecla S:\r\n*       Mueve tu personaje hacia abajo.\r\n*  ◁\tTecla A:\r\n*       Para ir a la derecha.\r\n*  ◁\tTecla D:\r\n*       Para ir a la izquierda\r\n*  ◁\tTecla L:\r\n*       Para disparar un pañuelo.\r\n\r\nTu objetivo es tomar el mayor número de itemes. Toca el espejo cuando aparezca en pantalla para pasar al siguiente nivel.\r\n\r\n# Descripcion de los objetos\r\n![Creo]( MakeUpWars/Crema.png )\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
